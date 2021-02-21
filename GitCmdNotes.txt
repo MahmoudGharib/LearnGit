@@ -122,6 +122,29 @@ git commit -m "Commit Message Here"
 # Pull Changes From Remote Repository
 git pull origin
 
+# if a file was deleted 
+git restore GitCmdNotes.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
