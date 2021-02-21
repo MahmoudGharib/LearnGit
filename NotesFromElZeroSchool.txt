@@ -1,6 +1,9 @@
 
 
 
+git clone https://github.com/MahmoudGharib/LearnGit.git
+
+----------------------------------------------------
 # Add Files
 git add <File> <File>
 git add *.extension
@@ -11,3 +14,32 @@ git status
 
 # Commit Changes
 git commit -m "Commit Message Here"
+-------------------------------------------------
+
+
+# Show Branches
+git branch
+git remote -v
+
+
+# Push Changes
+git push origin main
+
+
+# Add Files
+git add <File> <File>
+
+
+# Commit Changes
+git commit -m "Commit Message Here"
+
+-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
