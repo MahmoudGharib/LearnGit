@@ -102,20 +102,7 @@ git add <File> <File>
 git commit -m "Commit Message Here"
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+------------------------------------------------------------------------------------------------------
 # Show Branches
 git branch
 git remote -v
@@ -131,3 +118,69 @@ git add <File> <File>
 
 # Commit Changes
 git commit -m "Commit Message Here"
+----------------------------------------------------------------------------------
+# Pull Changes From Remote Repository
+git pull origin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
