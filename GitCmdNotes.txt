@@ -282,6 +282,16 @@ git pull origin
 
 
 
+Git log => to show all commits
+To exit git log press (q or z or h)
+
+
+git branch 
+
+git push (remoteName) (BranchName)
+
+
+
 
 
 
