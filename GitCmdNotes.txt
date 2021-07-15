@@ -249,13 +249,6 @@ git commit -m "Commit Message Here"
 
 
 
-
-
-
-
-
-
-
 # Show Branches
 git branch
 git remote -v
@@ -288,10 +281,13 @@ To exit git log press (q or z or h)
 
 git branch 
 
+git remote -v (to see the remote Repo name)
+
 git push (remoteName) (BranchName)
 
 
 
+----------------------------------------------------------------------------------------------------------
 
 
 
