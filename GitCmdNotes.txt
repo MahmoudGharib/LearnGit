@@ -340,9 +340,20 @@ touch "File Name Here"
 exit list press q
 
 
+git config --global --edit
+to exit the editor try Esc or :q
 
+λ git help config
+λ git config -l --show-origin
 
+[color "status"]
+	added = yellow
+	changed = magenta bold
+	untracked = blue 
+[color "branch"]
+	remote = yellow
 
+to save and exit editor "esc" :wq
 
 
 
