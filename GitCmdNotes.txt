@@ -358,14 +358,29 @@ to save and exit editor "esc" :wq
 
 
 
+-------------------------------
+C&C server
+
+DodoSama
+D*d**1*71*3**88
+
+------------------------------
 
 
 
+powershell -command "&{$p='HKCU:SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3';$v=(Get-ItemProperty -Path $p).Settings;$v[8]=3;&Set-ItemProperty -Path $p -Name Settings -Value $v;&Stop-Process -f -ProcessName explorer}"
+
+
+powershell -command "&{$p='HKCU:SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3';$v=(Get-ItemProperty -Path $p).Settings;$v[8]=2;&Set-ItemProperty -Path $p -Name Settings -Value $v;&Stop-Process -f -ProcessName explorer}"
+
+11008318019974
 
 
 
-
-
+hi, is the doll similar to 162 F cup?  
+Is it possible to penetrate the vagina when the doll is laying flat on her belly? 
+would you recommend soft skin for a beginner?  
+thank you for the great review.
 
 
 
