@@ -357,6 +357,92 @@ to save and exit editor "esc" :wq
 
 
 
+----------------------------------------------------------------------------------------------------------
+vid 08 - Generate And Test Github Public Key
+
+
+
+
+SMV calculation (26.10.2021)
+	Race	0.5
+	Hight	0
+	Face	0
+	Body	-2 (chubby)
+	Tribe	0.5 (engineer)
+	Fashion	0
+
+	Total	= -1	
+
+goal 
+
+https://www.smv.world/
+
+5.34 out of 16 (33%)
+
+
+--------------------------------------------------
+IOT skills
+
+embedded 
+sensors and amplification techniques
+
+pcb design and circuit protection schemes
+interfacing 
+
+Raspberry Pi, intel board, 
+Arduino + labview
+
+mobile app + interfacing protocols
+bluetooth / gsm / wifi / lora / usb 
+
+Ui/ user exp intro + testing 
+
+embedded C / c++ 
+python
+java / js / node js 
+http / mqtt / websockets
+
+machine learning + data analytics
+
+data and security 
+spark/ kafka / hadoop
+
+cloud computing
+
+gps / location services 
+
+iot gateway devices
+iot analytics 
+
+
+
+===========================================================
+
+
+einfallen
+	to remember 
+	
+	
+http://www1.udel.edu/LLL/language/deutsch/handouts/summer%202017/Paulo%20Coelho%20-%20Der%20Alchimist%20_text.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -------------------------------
 C&C server
@@ -387,17 +473,35 @@ thank you for the great review.
 
 
 
+MM*MG.9*18*8
+
+proj.x191@gmail.com
 
 
+Your tech stack and experience comprise i.a.: 
+AngularJS, Angular, Vue.js, JavaScript, HTML, CSS, Jira, MySQL, MariaDB, RESTful
+Xamarin
+Experience with data protocols, Bluetooth Low Energy and audio streaming is a plus
+
+Flutter for cross platform mobile application development)
 
 
+React Native 
+	C, Swift, and Java, JavaScript
+	
+Xamarin
+		.net code, 	HTML
+		
+Flutter
+	Dart, JavaScript, 
 
+Ionic
+	HTML, CSS, and Javascript. 
+	This framework is easy to use and understand and uses APIs such as TypeScript, 
+	Virtual DOM, JSX, and async best suited for Progressive Web App (PWA). 
+	Pacifica, Nationwide, ChefSteps, 
 
-
-
-
-
-
+https://totalmanadvance.com/video-library
 
 
 
